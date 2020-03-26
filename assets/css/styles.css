@@ -9,6 +9,11 @@ body {
   color: var(--text);
   transition: background 500ms ease-in-out, color 1000ms ease-in-out;
 }
+
+main {
+  min-height: 1000px;
+  padding: 2rem;
+}
 /*#endregion /Reset */
 
 /*#region Navigation */
